@@ -1,0 +1,194 @@
+[   
+    {
+        "identificador": "1",
+		"Caratula": "https://i.ibb.co/KNVdzyc/nanatsu-1.jpg",
+		"Nombre": "Nanatsu no taizai 1",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "2",
+		"Caratula": "https://i.ibb.co/mFJsD04/nanatsu-2.jpg",
+		"Nombre": "Nanatsu no taizai 2",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "3",
+		"Caratula": "https://i.ibb.co/pv2DsN5/nanatsu-3.jpg",
+		"Nombre": "Nanatsu no taizai 3",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "4",
+		"Caratula": "https://i.ibb.co/khDRCTz/haikyu-1.jpg",
+		"Nombre": "Haikyuu 1",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "5",
+		"Caratula": "https://i.ibb.co/0CfCrtX/haikyu-2.jpg",
+		"Nombre": "Haikyuu 2",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "6",
+		"Caratula": "https://i.ibb.co/98Df1Lv/haikyu-3.jpg",
+		"Nombre": "Haikyuu 3",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "7",
+		"Caratula": "https://i.ibb.co/7VL9K41/haikyu-4.jpg",
+		"Nombre": "Haikyuu 4",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "8",
+		"Caratula": "https://i.ibb.co/RhhFv1x/kaisen.jpg",
+		"Nombre": "Jujutsu kaisen",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+    {
+        "identificador": "9",
+		"Caratula": "https://i.ibb.co/KNVdzyc/nanatsu-1.jpg",
+		"Nombre": "Nanatsu no taizai 1",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "10",
+		"Caratula": "https://i.ibb.co/mFJsD04/nanatsu-2.jpg",
+		"Nombre": "Nanatsu no taizai 2",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "11",
+		"Caratula": "https://i.ibb.co/pv2DsN5/nanatsu-3.jpg",
+		"Nombre": "Nanatsu no taizai 3",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "12",
+		"Caratula": "https://i.ibb.co/khDRCTz/haikyu-1.jpg",
+		"Nombre": "Haikyuu 1",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "13",
+		"Caratula": "https://i.ibb.co/0CfCrtX/haikyu-2.jpg",
+		"Nombre": "Haikyuu 2",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "14",
+		"Caratula": "https://i.ibb.co/98Df1Lv/haikyu-3.jpg",
+		"Nombre": "Haikyuu 3",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "15",
+		"Caratula": "https://i.ibb.co/7VL9K41/haikyu-4.jpg",
+		"Nombre": "Haikyuu 4",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "16",
+		"Caratula": "https://i.ibb.co/RhhFv1x/kaisen.jpg",
+		"Nombre": "Jujutsu kaisen",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+    {
+        "identificador": "17",
+		"Caratula": "https://i.ibb.co/0CfCrtX/haikyu-2.jpg",
+		"Nombre": "Haikyuu 2",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "18",
+		"Caratula": "https://i.ibb.co/98Df1Lv/haikyu-3.jpg",
+		"Nombre": "Haikyuu 3",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "19",
+		"Caratula": "https://i.ibb.co/7VL9K41/haikyu-4.jpg",
+		"Nombre": "Haikyuu 4",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "20",
+		"Caratula": "https://i.ibb.co/RhhFv1x/kaisen.jpg",
+		"Nombre": "Jujutsu kaisen",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+    {
+        "identificador": "21",
+		"Caratula": "https://i.ibb.co/0CfCrtX/haikyu-2.jpg",
+		"Nombre": "Haikyuu 2",
+		"Audio": "Latino",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "22",
+		"Caratula": "https://i.ibb.co/98Df1Lv/haikyu-3.jpg",
+		"Nombre": "Haikyuu 3",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "23",
+		"Caratula": "https://i.ibb.co/7VL9K41/haikyu-4.jpg",
+		"Nombre": "Haikyuu 4",
+		"Audio": "Subtitulado",
+		"Capitulos": "12 Capitulos",
+        "Link": "#"
+	},
+	{
+        "identificador": "24",
+		"Caratula": "https://i.ibb.co/RhhFv1x/kaisen.jpg",
+		"Nombre": "Jujutsu kaisen",
+		"Audio": "Latino",
+		"Capitulos": "15 Capitulos",
+        "Link": "#"
+	}
+]
