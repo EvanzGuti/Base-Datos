@@ -1,7 +1,7 @@
 [{
 		"id": "1",
-		"imagen": "https://i.ibb.co/mFJsD04/nanatsu-2.jpg",
-		"titulo": "Nanatsu no taizai 1",
+		"imagen": 'https://i.ibb.co/mFJsD04/nanatsu-2.jpg',
+		"titulo": 'Nanatsu no taizai 1',
 		"estado": "finalizado",
 		"idioma": "latino",
 		"idiomaid": "1",
